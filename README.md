@@ -1,7 +1,7 @@
 # StressDetectionFlightCrews
 Measurements of Physiological Parameters in Flight Simulator Studies for Stress Detection and Analysis Through Deep Learning Applications
 
-This project has been created over the course of the Mastersthesis at the Institute of Aircraft Systems at University of Stuttgart in cooperation with the Institute of Flight Guidance at the DLR in Brunswick, Germany. 
+This project has been created over the course of the Master's Thesis at the Institute of Aircraft Systems at University of Stuttgart in cooperation with the Institute of Flight Guidance at the DLR in Brunswick, Germany. 
 
 ## Flight Simulator Studies
 There have been two flight simulator studies in the AVES flight simulator.
